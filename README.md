@@ -45,8 +45,10 @@ Workout App - это простое и интуитивно понятное п�
 
 ## Скриншоты
 
-[![image](https://github.com/user-attachments/assets/8c33ac28-d3a9-44a7-82db-4318ff7845a7)
-]
+![image](https://github.com/user-attachments/assets/8c33ac28-d3a9-44a7-82db-4318ff7845a7) ![image](https://github.com/user-attachments/assets/3af9dada-536e-49d5-bd42-211201a23cc3) ![image](https://github.com/user-attachments/assets/dc79eb00-e4e0-447d-9183-7a2869799c30) ![image](https://github.com/user-attachments/assets/555f9d8c-77df-4eb6-9d16-bfbc93878008)
+
+
+
 
 ## Планы по развитию
 
