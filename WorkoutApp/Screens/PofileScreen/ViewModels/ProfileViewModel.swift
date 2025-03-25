@@ -9,7 +9,7 @@ import Foundation
 
 final class ProfileViewModel: ObservableObject {
     let additionalData = AdditionalUserData(
-        age: 28,
+        age: 19,
         goal: "Набор мышечной массы",
         startDate: Calendar.current.date(byAdding: .month, value: -3, to: Date())!
     )
